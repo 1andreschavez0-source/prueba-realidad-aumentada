@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Whale_Diffuse_luminance.png",
+  "resources": {
+    "originalImage": "Whale_Diffuse_original.png",
+    "croppedImage": "Whale_Diffuse_cropped.png",
+    "thumbnailImage": "Whale_Diffuse_thumbnail.png",
+    "luminanceImage": "Whale_Diffuse_luminance.png"
+  },
+  "name": "Whale_Diffuse",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 4096,
+    "height": 2048,
+    "isRotated": false,
+    "originalWidth": 4096,
+    "originalHeight": 2048
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795034553916,
+  "updated": 1795034553916
+}
