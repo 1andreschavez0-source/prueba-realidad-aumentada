@@ -1,6 +1,6 @@
 import * as ecs from '@8thwall/ecs'
-import marcador0 from '../image-targets/cube1.json'
-import marcador1 from '../image-targets/Whale_Diffuse.json'
+import marcador0 from '../image-targets/Whale_Diffuse.json'
+import marcador1 from '../image-targets/cube1.json'
 
 /**
  * Carga los marcadores de imagen en el motor, y se queda vigilando que sigan puestos.

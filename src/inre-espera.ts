@@ -6,7 +6,7 @@
  * lienzo. Si algo falla dentro, se retira sola para no dejar la pantalla tapada.
  */
 
-const MARCADORES = ["cube1","Whale_Diffuse"]
+const MARCADORES = ["Whale_Diffuse","cube1"]
 
 /**
  * Cuenta las descargas en curso de archivos del proyecto (assets/ o blobs) para
